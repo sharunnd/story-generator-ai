@@ -1,5 +1,5 @@
 # story-generator-ai
-It is a storytelling website powered by the OpenAI API.
+It is a story-generating website powered by the OpenAI API.
 
 # To visit my website [Click here](https://story-generator-theta.vercel.app/)
 
